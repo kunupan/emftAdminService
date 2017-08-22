@@ -1,0 +1,62 @@
+{
+  "User": {
+    "AMUser": "false",
+    "LDAPDerivedUser": "false",
+    "PGPAllowUserAddKey": "D",
+    "activeUserType": "true",
+    "allowableProtocol": "ALL",
+    "createdBy": "admin",
+    "dateCreated": {
+      "day": "16",
+      "hour": "14",
+      "minute": "33",
+      "month": "5",
+      "second": "26",
+      "year": "2017"
+    },
+    "dateLastAccess": {
+      "day": "21",
+      "hour": "15",
+      "minute": "28",
+      "month": "5",
+      "second": "11",
+      "year": "2017"
+    },
+    "department": "TestDepartment",
+    "disableFlag": "0",
+    "expirationDate": {
+      "day": "31",
+      "hour": "0",
+      "minute": "0",
+      "month": "11",
+      "second": "0",
+      "year": "2099"
+    },
+    "fullName": "Berin Jose",
+    "fullUser": "false",
+    "guestUser": "false",
+    "id": "TestUserBerin",
+    "internal": "false",
+    "lockFlag": "0",
+    "powerUser": "false",
+    "pwdAllowSelfChange": "1",
+    "pwdExpiresFlag": "0",
+    "pwdForceChange": "0",
+    "pwdLastChangeDate": {
+      "day": "16",
+      "hour": "0",
+      "minute": "0",
+      "month": "5",
+      "second": "0",
+      "year": "2017"
+    },
+    "restrictUserIPAddress": "N",
+    "sendOnlyToUserID": "NONE",
+    "updatedBy": "admin",
+    "validDays": "YYYYYYY",
+    "validEndTime": "2359",
+    "validStartTime": "0",
+    "validUserType": "true",
+    "visibility": "public"
+  }
+}
